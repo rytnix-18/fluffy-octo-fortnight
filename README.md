@@ -1,1 +1,4 @@
-# fluffy-octo-fortnight
+num1=18
+num2=2003
+sum=num1+num2
+print('The sum of {0} and {1} is {2}'.format(num1,num2,sum))
